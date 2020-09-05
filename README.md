@@ -1,9 +1,9 @@
 ### Hola, Soy The Black Cat 👋
 ---
-- Soy estudiante de Ing. Informatica.
-- Medium: [@TheBlckCat](https://medium.com/@TheBlckCat)
+- 😸 Soy estudiante de Ing. Informatica.
+- 📰 Medium: [@TheBlckCat](https://medium.com/@TheBlckCat)
 
-<img src="octocat.png" width="300">
+<img src="Theblckoctocat.png" width="300">
 
 <!--
 **TheBlckCat/TheBlckCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
