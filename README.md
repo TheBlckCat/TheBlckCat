@@ -1,9 +1,10 @@
 ### Hola, Soy The Black Cat 👋
 ---
-- 😸 Soy estudiante de Ing. Informatica.
+- 👨🏻‍💻 Estudiante de Ing. Civil Informatica.
+- :octocat: Cuenta principal: [White-Mask](https://github.com/white-mask)
 - 📰 Medium: [@TheBlckCat](https://medium.com/@TheBlckCat)
 
-<img src="https://github.com/TheBlckCat/TheBlckCat/blob/master/Theblckoctocat.png" width="300">
+<img img align ="right" src="https://github.com/TheBlckCat/TheBlckCat/blob/master/Theblckoctocat.png" width="300">
 
 <!--
 **TheBlckCat/TheBlckCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
